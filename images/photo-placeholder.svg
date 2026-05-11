@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Заглушка для семейной фотографии</title>
+  <desc id="desc">Декоративная карточка с рамкой для будущей фотографии.</desc>
+  <rect width="800" height="600" rx="38" fill="#fff4df"/>
+  <rect x="70" y="70" width="660" height="460" rx="26" fill="#f3dfc6" stroke="#c49a5f" stroke-width="8" stroke-dasharray="18 16"/>
+  <circle cx="300" cy="250" r="70" fill="#9c4654" opacity="0.34"/>
+  <path d="M175 468c73-112 145-150 218-114 55 28 91 21 135-20 46-43 92-26 148 134Z" fill="#6d2e3a" opacity="0.24"/>
+  <text x="400" y="555" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#6d2e3a">Добавить фото</text>
+</svg>

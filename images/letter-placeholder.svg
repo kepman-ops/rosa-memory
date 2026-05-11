@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Заглушка для письма или документа</title>
+  <desc id="desc">Декоративный лист бумаги для будущих писем, документов и подписей.</desc>
+  <rect width="800" height="600" rx="38" fill="#f6efe4"/>
+  <path d="M176 72h448c35 0 64 29 64 64v328c0 35-29 64-64 64H176c-35 0-64-29-64-64V136c0-35 29-64 64-64Z" fill="#fffaf1" stroke="#d8bb91" stroke-width="6"/>
+  <path d="M190 168h420M190 238h420M190 308h330M190 378h380" stroke="#9c4654" stroke-width="12" stroke-linecap="round" opacity="0.28"/>
+  <path d="M564 408c41-66 93-52 80 6-10 44-59 79-115 88 13-31 21-61 35-94Z" fill="#b64f61" opacity="0.7"/>
+  <text x="400" y="562" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#6d2e3a">Письма и документы</text>
+</svg>
